@@ -7,6 +7,6 @@
 <title>2.jsp</title>
 </head>
 <body>
-
+	<h2>2.jsp 첫번째 기능 추가</h2>
 </body>
 </html>
