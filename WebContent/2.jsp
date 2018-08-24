@@ -7,7 +7,8 @@
 <title>2.jsp</title>
 </head>
 <body>
-	<h2>2.jsp ù��° ��� �߰�</h2>
-	<h2>2.jsp ù��° ��� ����</h2>
+	<h2>2.jsp 첫번째 기능 추가</h2>
+	<h2>2.jsp 첫번째 기능 수정</h2>
+	<h2>2.jsp 두번째 기능 추가</h2>
 </body>
 </html>
